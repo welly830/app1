@@ -1,0 +1,4 @@
+#Sun Jun 19 17:53:09 BRT 2022
+base.0=/home/shumpo/programacao/app_fluter/app1/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
